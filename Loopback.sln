@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Loopback", "Loopback\Loopback.vbproj", "{45F23531-174D-4745-B8C5-5C6C725379DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F23531-174D-4745-B8C5-5C6C725379DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F23531-174D-4745-B8C5-5C6C725379DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F23531-174D-4745-B8C5-5C6C725379DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F23531-174D-4745-B8C5-5C6C725379DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C91D48-3510-402D-9565-0D8150EF0B62}
+	EndGlobalSection
+EndGlobal
